@@ -1,0 +1,23 @@
+{
+    "name": "mensbeam/self-sealing-callable",
+    "description": "You won't find a better Self-Sealing Callable in this sector!",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MensBeam\\": "lib/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dustin Wilson",
+            "email": "dustin@dustinwilson.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    }
+}
