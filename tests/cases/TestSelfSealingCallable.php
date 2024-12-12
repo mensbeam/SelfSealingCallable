@@ -10,8 +10,7 @@ namespace MensBeam\SelfSealingCallable\Test;
 use MensBeam\SelfSealingCallable;
 use PHPUnit\Framework\{
     TestCase,
-    Attributes\CoversClass,
-    Attributes\DataProvider
+    Attributes\CoversClass
 };
 
 
